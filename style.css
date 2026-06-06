@@ -10,22 +10,23 @@ header {
     padding: 0 2rem;
     display: flex;
     justify-content: space-between;
-    height: 70px;
+    height: 75px;
 
 }
 
 header h1 {
     color: #ffffff;
-    font-size: 1.6rem;
-    font-weight: 800;
+    font-size: 1.5rem;
+    font-weight: 780;
     letter-spacing: 0.5px;
     font-style: italic;
+    margin-top: 0.4rem;
 }
 
 header ul {
     list-style: none;
     display: flex;
-    gap: 2rem;
+    gap: 1.8rem;
     margin-left: 60%;
 }
 
